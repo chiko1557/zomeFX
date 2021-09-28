@@ -1,21 +1,18 @@
-/**
-* Template Name: Kelly - v4.3.0
-* Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #161414;
 }
 
 a {
   color: #34b7a7;
   text-decoration: none;
+}
+h1{
+  color: white;
 }
 
 a:hover {
@@ -1211,5 +1208,5 @@ px;
 }
 
 #footer .credits a {
-  color: #4d10c0;
+  color: #2a20bd;
 }
